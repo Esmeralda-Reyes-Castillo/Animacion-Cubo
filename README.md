@@ -10,9 +10,6 @@
     </script>
     <script src="textura.js" defer></script>
   </head>
-  <video id="video">
-    Parece ser que tu navegador no soporta el elemento HTML5. <code>&lt;video&gt;</code>
-  </video>
   <body>
     <canvas id="glcanvas" width="640" height="480"></canvas>
   </body>
